@@ -3,7 +3,10 @@ AMM PLANNING CONTENT
 -Javascript
  #ES6
  #Framework Js
+  ^Vue
 -Struktur data dasar
 -PHP framework
+  ^Laravel
 -web programming
 -phyton
+-R
