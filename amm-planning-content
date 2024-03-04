@@ -2,10 +2,12 @@ AMM PLANNING CONTENT
 
 -Javascript
  #ES6
- #Framework Js
-  ^Angular
-  ^React
+ #Framework
+  ^Vue
+  ^react
+-Struktur data dasar
 -PHP framework
-  ^laravel
+  ^Laravel
 -web programming
 -phyton
+-R
