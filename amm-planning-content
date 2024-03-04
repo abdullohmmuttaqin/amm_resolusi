@@ -4,6 +4,7 @@ AMM PLANNING CONTENT
  #ES6
  #Framework Js
   ^Vue
+  ^react
 -Struktur data dasar
 -PHP framework
   ^Laravel
